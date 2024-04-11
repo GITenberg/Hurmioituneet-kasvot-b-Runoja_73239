@@ -1,0 +1,74 @@
+_repo: Hurmioituneet-kasvot-b-Runoja_73239
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jylhä, Yrjö
+    aliases:
+    - Jylha, Yrjo
+    - Jylhä, Yrjö Olavi
+    birthdate: 1903
+    deathdate: 1956
+    gutenberg_agent_id: '56990'
+    url: http://www.gutenberg.org/2009/agents/56990
+    wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Jylh%C3%A4
+  - agent_name: Paavolainen, Olavi
+    alias: Lauri, Olavi
+    birthdate: 1903
+    deathdate: 1964
+    gutenberg_agent_id: '57006'
+    url: http://www.gutenberg.org/2009/agents/57006
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Olavi_Paavolainen
+    - https://fi.wikipedia.org/wiki/Olavi_Paavolainen
+  - agent_name: Pimiä, Ilmari
+    alias: Pimia, Ilmari
+    birthdate: 1897
+    deathdate: 1989
+    gutenberg_agent_id: '56849'
+    url: http://www.gutenberg.org/2009/agents/56849
+    wikipedia: https://fi.wikipedia.org/wiki/Ilmari_Pimi%C3%A4
+  - agent_name: Vaara, Elina
+    birthdate: 1903
+    deathdate: 1980
+    gutenberg_agent_id: '56352'
+    url: http://www.gutenberg.org/2009/agents/56352
+    wikipedia: https://fi.wikipedia.org/wiki/Elina_Vaara
+  - agent_name: Vala, Katri
+    aliases:
+    - Wadenström, Karin
+    - Wadenstrom, Karin
+    - Heikel, Karin Alice
+    birthdate: 1901
+    deathdate: 1944
+    gutenberg_agent_id: '56986'
+    url: http://www.gutenberg.org/2009/agents/56986
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Katri_Vala
+    - https://fi.wikipedia.org/wiki/Katri_Vala
+  - agent_name: Viljanen, Lauri
+    alias: Viljanen, Lauri Sakari
+    birthdate: 1900
+    deathdate: 1984
+    gutenberg_agent_id: '56353'
+    url: http://www.gutenberg.org/2009/agents/56353
+    wikipedia: https://fi.wikipedia.org/wiki/Lauri_Viljanen
+description: ''
+gutenberg_issued: '2024-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73239'
+language: fi
+pgterms:marc905: 20240322121627various
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Hurmioituneet kasvot : $b Runoja'
+url: http://www.gutenberg.org/ebooks/73239
