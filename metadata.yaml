@@ -1,5 +1,8 @@
 _repo: Hurmioituneet-kasvot-b-Runoja_73239
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Jylhä, Yrjö
@@ -53,6 +56,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56353
     wikipedia: https://fi.wikipedia.org/wiki/Lauri_Viljanen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73239#Hurmioituneet-kasvot-b-Runoja
 gutenberg_issued: '2024-03-23'
 gutenberg_type: Text
 identifiers:
